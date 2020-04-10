@@ -30,15 +30,16 @@
 
 .row-2 .col-1 {
   vertical-align: baseline;
-  padding-top: 1.5rem;
+  padding-top: 1.2rem;
 }
 
 .row-2 td:not(:first-child) {
   text-transform: uppercase;
 }
 
-.row-3 {
-  height: 4.52rem;
+.row-3,
+.row-3 img {
+  height: 4.05rem;
 }
 
 .row-4 {
