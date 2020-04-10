@@ -1,0 +1,40 @@
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 71.875rem;
+  color: #fff;
+  vertical-align: middle;
+}
+
+.tg tr:not(:last-child) {
+  border-bottom: 1px solid #fff;
+}
+
+.tg tr {
+  height: 1.875rem;
+}
+
+.tg td {
+  width: 18rem;
+}
+
+.tg th:not(:first-child),
+.tg td:not(:first-child) {
+  border-left: 1px solid #fff;
+}
+
+.row-1 th {
+  font-weight: 400;
+}
+
+.row-1 .col-1 {
+  text-align: left;
+}
+
+.row-rest {
+  text-align: center;
+}
+
+.row-rest .col-1 {
+  text-align: left;
+}
