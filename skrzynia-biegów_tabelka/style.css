@@ -1,0 +1,67 @@
+.tg {
+  color: #fff;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.3125rem;
+}
+
+.tg th,
+.tg td {
+  overflow: hidden;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.row-1 th:not(:first-child),
+.tg tr:not(:last-child) {
+  border-bottom: 1px solid #fff;
+}
+
+.tg tfoot {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.tg tfoot .row-1 {
+  height: 1rem;
+}
+
+.tg tfoot tr {
+  border-bottom: none !important;
+}
+.tg tfoot tr td {
+  text-align: left;
+}
+
+.tg tr *:not(:first-child) {
+  border-left: 1px solid #fff;
+}
+
+.col-1 {
+  text-align: left !important;
+  width: 11.875rem !important;
+  /* text-transform: uppercase; */
+  font-weight: 700;
+}
+
+.row-1 {
+  height: 3.125rem;
+}
+
+.row-2 {
+  height: 4.375rem;
+  font-weight: 700;
+}
+
+.row-2 td {
+  /* vertical-align: bottom; */
+}
+.row-1 .col-2,
+.row-2 .col-2 {
+  border-left: none !important;
+}
+
+.row-rest td {
+  height: 3.1rem;
+  width: 6.85rem;
+}

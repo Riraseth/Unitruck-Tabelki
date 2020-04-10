@@ -3,7 +3,6 @@
   border-collapse: collapse;
   border-spacing: 0;
   width: 80.3125rem;
-  table-layout: fixed;
 }
 
 .tg th,
@@ -13,7 +12,8 @@
   text-align: center;
 }
 
-.tg tr *:not(:first-child) {
+.tg tr *:not(:first-child),
+.row-3 .col-1 {
   border-left: 2px solid #b1b2b6;
 }
 
