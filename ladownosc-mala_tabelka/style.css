@@ -1,0 +1,50 @@
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.3125rem;
+}
+
+.tg th {
+  overflow: hidden;
+  text-transform: uppercase;
+  font-weight: 700;
+  height: 2.5rem;
+}
+
+.tg td {
+  overflow: hidden;
+}
+
+.tg tr *:not(:first-child) {
+  border-left: 2px solid #b1b2b6;
+}
+
+.tg .tg-0lax {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.second-row {
+  text-transform: uppercase;
+  font-weight: 700;
+  height: 5.91rem;
+}
+
+.second-row .col-1 {
+  width: 14.6875rem;
+  vertical-align: bottom;
+  padding-bottom: 1.875rem;
+  text-align-last: left;
+}
+
+.third-row {
+  height: 2.35rem;
+}
+
+.first-row th:not(:first-child) {
+  border-bottom: 2px solid #b1b2b6;
+}
+
+.second-row td {
+  border-bottom: 2px solid #b1b2b6;
+}
