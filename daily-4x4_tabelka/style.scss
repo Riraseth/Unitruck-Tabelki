@@ -1,0 +1,45 @@
+.tg-4 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 1150px;
+  color: #fff;
+  vertical-align: middle;
+  margin: 0 auto;
+
+  tr:not(:last-child) {
+    border-bottom: 1px solid #fff;
+  }
+
+  tr {
+    height: 30px;
+  }
+
+  .col-1 {
+    width: 260px;
+  }
+
+  td {
+    width: 297px;
+  }
+
+  th:not(:first-child),
+  td:not(:first-child) {
+    border-left: 1px solid #fff;
+  }
+
+  .row-1 th {
+    font-weight: 400;
+  }
+
+  .row-1 .col-1 {
+    text-align: left;
+  }
+
+  .row-rest {
+    text-align: center;
+  }
+
+  .row-rest .col-1 {
+    text-align: left;
+  }
+}

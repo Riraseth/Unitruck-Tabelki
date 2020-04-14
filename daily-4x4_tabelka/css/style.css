@@ -1,0 +1,46 @@
+.tg-4 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 1150px;
+  color: #fff;
+  vertical-align: middle;
+  margin: 0 auto;
+}
+
+.tg-4 tr:not(:last-child) {
+  border-bottom: 1px solid #fff;
+}
+
+.tg-4 tr {
+  height: 30px;
+}
+
+.tg-4 .col-1 {
+  width: 260px;
+}
+
+.tg-4 td {
+  width: 297px;
+}
+
+.tg-4 th:not(:first-child),
+.tg-4 td:not(:first-child) {
+  border-left: 1px solid #fff;
+}
+
+.tg-4 .row-1 th {
+  font-weight: 400;
+}
+
+.tg-4 .row-1 .col-1 {
+  text-align: left;
+}
+
+.tg-4 .row-rest {
+  text-align: center;
+}
+
+.tg-4 .row-rest .col-1 {
+  text-align: left;
+}
+/*# sourceMappingURL=style.css.map */

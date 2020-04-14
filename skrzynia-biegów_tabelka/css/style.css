@@ -1,0 +1,77 @@
+.tg-3 {
+  color: #fff;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 1283px;
+  margin: 0 auto;
+}
+
+.tg-3 th,
+.tg-3 td {
+  overflow: hidden;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.tg-3 .row-1 th:not(:first-child),
+.tg-3 tr:not(:last-child) {
+  border-bottom: 1px solid #fff;
+}
+
+.tg-3 tfoot {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.tg-3 tfoot .row-1 {
+  height: 16px;
+}
+
+.tg-3 tfoot tr {
+  border-bottom: none !important;
+}
+
+.tg-3 tfoot tr td {
+  text-align: left;
+}
+
+.tg-3 tr *:not(:first-child) {
+  border-left: 1px solid #fff;
+}
+
+.tg-3 .col-1 {
+  text-align: left !important;
+  width: 190px !important;
+  /* text-transform: uppercase; */
+  font-weight: 700;
+}
+
+.tg-3 .row-1 {
+  height: 50px;
+}
+
+.tg-3 .row-2 {
+  height: 74px;
+  font-weight: 700;
+}
+
+.tg-3 .row-2 .col-2,
+.tg-3 .row-2 .col-4 {
+  width: 340px;
+}
+
+.tg-3 .row-2 .col-3,
+.tg-3 .row-2 .col-5 {
+  width: 225px;
+}
+
+.tg-3 .row-1 .col-2,
+.tg-3 .row-2 .col-2 {
+  border-left: none !important;
+}
+
+.tg-3 .row-rest td {
+  height: 48px;
+  width: 110px;
+}
+/*# sourceMappingURL=style.css.map */
