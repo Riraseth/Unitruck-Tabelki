@@ -41,6 +41,12 @@
   text-align-last: left;
 }
 
+.second-row .col-2,
+.second-row .col-3,
+.second-row .col-4 {
+  width: 21.875rem;
+}
+
 .third-row {
   height: 2.35rem;
 }
