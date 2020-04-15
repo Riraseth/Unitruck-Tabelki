@@ -21,8 +21,20 @@
   }
   .col-1 {
     width: 327px;
-    text-align: left;
   }
+
+  .row-3,
+  .row-4 {
+    .col-1 {
+      text-align: left;
+    }
+  }
+
+  .col-1,
+  .row-2 .col-2 {
+    font-weight: 700;
+  }
+
   .col-2,
   .col-3 {
     width: 212px;
@@ -50,11 +62,24 @@
 }
 
 .tg-7 {
-  tr td {
+  .row-4 td {
     width: 212px;
     height: 46px;
   }
-  tr {
+
+  .row-4 .col-1 {
+    width: 327px;
+  }
+
+  .row-4,
+  .row-5 {
     border-bottom: none !important;
+  }
+  .row-5 {
+    text-align: end;
+    span {
+      position: relative;
+      top: 5px;
+    }
   }
 }

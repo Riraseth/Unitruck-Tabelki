@@ -26,7 +26,20 @@
 .tg-6 .col-1,
 .tg-7 .col-1 {
   width: 327px;
+}
+
+.tg-6 .row-3 .col-1,
+.tg-6 .row-4 .col-1,
+.tg-7 .row-3 .col-1,
+.tg-7 .row-4 .col-1 {
   text-align: left;
+}
+
+.tg-6 .col-1,
+.tg-6 .row-2 .col-2,
+.tg-7 .col-1,
+.tg-7 .row-2 .col-2 {
+  font-weight: 700;
 }
 
 .tg-6 .col-2,
@@ -64,12 +77,26 @@
   font-size: 30px;
 }
 
-.tg-7 tr td {
+.tg-7 .row-4 td {
   width: 212px;
   height: 46px;
 }
 
-.tg-7 tr {
+.tg-7 .row-4 .col-1 {
+  width: 327px;
+}
+
+.tg-7 .row-4,
+.tg-7 .row-5 {
   border-bottom: none !important;
+}
+
+.tg-7 .row-5 {
+  text-align: end;
+}
+
+.tg-7 .row-5 span {
+  position: relative;
+  top: 5px;
 }
 /*# sourceMappingURL=style.css.map */
