@@ -1,7 +1,7 @@
 .tg-8 {
-  border-collapse: collapse;
+  // border-collapse: collapse;
   border-spacing: 0;
-  width: 1230px;
+  width: 76.875rem;
   vertical-align: middle;
   text-align: left;
   margin: 0 auto;
@@ -28,16 +28,16 @@
 
   tr td:first-child {
     text-align: left;
-    width: 575px;
+    width: 35.9375rem;
     padding-left: 9px;
   }
   tr td:not(:first-child) {
-    width: 163px;
+    width: 10.1875rem;
     background-color: #ececed;
   }
   .row-empty {
     background-color: transparent !important;
-    height: 15px;
+    height: 0.9375rem;
   }
   .row-1,
   .row-2 {
@@ -45,7 +45,7 @@
     font-weight: 700;
   }
   .row-1 {
-    height: 42px;
+    height: 2.625rem;
     .col-2,
     .col-3 {
       border-bottom: 4px solid #ececed;
@@ -55,7 +55,7 @@
     }
   }
   .row-2 {
-    height: 50px;
+    height: 3.125rem;
     td:nth-child(3) {
       border-right: 1px solid #bdbec1;
     }
@@ -65,8 +65,8 @@
     }
   }
   tr:nth-child(n + 4) {
-    height: 26px;
-    font-size: 15px;
+    height: 1.625rem;
+    font-size: 0.9375rem;
     td:first-child {
       border-top: 1px solid #bdbec1;
     }

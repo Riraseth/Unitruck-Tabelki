@@ -2,13 +2,31 @@
 .tg-7 {
   border-collapse: collapse;
   border-spacing: 0;
-  width: 1383px;
+  width: 86.4375rem;
   vertical-align: middle;
   text-align: left;
   color: #fff;
   border-color: #fff;
   margin: 0 auto;
   text-align: center;
+
+  tr td {
+    position: relative;
+  }
+
+  .-has-dot {
+    color: #fff;
+    position: relative;
+    transform: translateX(-50%);
+    &::after {
+      content: '\2022‬';
+      position: absolute;
+      font-size: 1.875rem;
+      top: 0;
+      left: 0;
+      transform: translate(-50%, -50%);
+    }
+  }
 
   tr {
     border-bottom: 1px solid;
@@ -20,7 +38,7 @@
     }
   }
   .col-1 {
-    width: 327px;
+    width: 20.4375rem;
   }
 
   .row-3,
@@ -35,40 +53,44 @@
     font-weight: 700;
   }
 
+  .row-2 .col-1 {
+    border-left: 1px solid #fff;
+  }
+
   .col-2,
   .col-3 {
-    width: 212px;
+    width: 13.25rem;
   }
 
   .row-2 .col-1,
   .row-3 .col-3,
   .row-3 .col-4 {
-    width: 212px;
+    width: 13.25rem;
   }
 
   .row-1 {
     .col-1,
     .col-2,
     .col-3 {
-      height: 90px;
+      height: 5.625rem;
     }
   }
   .row-3 {
-    height: 48px;
+    height: 3rem;
   }
   .bullet {
-    font-size: 30px;
+    font-size: 1.875rem;
   }
 }
 
 .tg-7 {
   .row-4 td {
-    width: 212px;
-    height: 46px;
+    width: 13.25rem;
+    height: 2.875rem;
   }
 
   .row-4 .col-1 {
-    width: 327px;
+    width: 20.4375rem;
   }
 
   .row-4,
