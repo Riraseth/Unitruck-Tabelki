@@ -1,0 +1,50 @@
+.tg-15 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  vertical-align: middle;
+  text-align: left;
+  color: #fff;
+  border-color: #fff;
+  margin: 0 auto;
+
+  tr:not(:last-child) {
+    border-bottom: 1px solid;
+  }
+  th,
+  td {
+    &:not(:first-child) {
+      border-left: 1px solid;
+    }
+  }
+
+  .col-1 {
+    padding-left: 0.75rem;
+    width: 21.25rem;
+    font-weight: 700;
+  }
+
+  .row-1 .col-2 {
+    width: 42.1875rem;
+    padding-left: 0.75rem;
+  }
+
+  .col-2,
+  .col-3 {
+    width: 21.0625rem;
+    padding-left: 0.75rem;
+  }
+
+  .col-4 {
+    width: 17.5rem;
+    padding-left: 0.75rem;
+  }
+
+  .row-1 {
+    height: 2.8125rem;
+  }
+  .row-2,
+  .row-3 {
+    height: 6.0625rem;
+  }
+}

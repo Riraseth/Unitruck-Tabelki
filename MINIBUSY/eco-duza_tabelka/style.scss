@@ -1,0 +1,115 @@
+.tg-17,
+.tg-18 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 87.5rem;
+  vertical-align: middle;
+  color: #fff;
+  border-color: #fff;
+  margin: 0 auto;
+  text-align: center;
+
+  tr td {
+    position: relative;
+  }
+
+  .-has-dot {
+    color: #fff;
+    position: relative;
+    &::after {
+      content: '\2022‬';
+      position: absolute;
+      font-size: 1.875rem;
+      top: 0;
+      left: 0;
+      line-height: 1;
+      transform: translateX(-50%);
+    }
+  }
+
+  tr {
+    border-bottom: 1px solid;
+  }
+  th,
+  td {
+    &:not(:first-child) {
+      border-left: 1px solid;
+    }
+  }
+  .col-1 {
+    width: 20.4375rem;
+  }
+
+  .row-1 .col-5 {
+    width: 12.75rem;
+  }
+
+  .row-3,
+  .row-4 {
+    .col-1 {
+      text-align: left;
+      position: relative;
+      transform: translateX(4rem);
+    }
+  }
+
+  .col-1,
+  .row-2 .col-2 {
+    font-weight: 700;
+  }
+
+  .row-2 .col-1 {
+    border-left: 1px solid #fff;
+  }
+
+  .col-2,
+  .col-3 {
+    width: 9.5rem;
+  }
+
+  .row-2 .col-1,
+  .row-3 .col-3,
+  .row-3 .col-4 {
+    width: 9.5rem;
+  }
+
+  .row-1 {
+    .col-1,
+    .col-2,
+    .col-3 {
+      height: 5.625rem;
+    }
+  }
+  .row-3 {
+    height: 3rem;
+  }
+  .bullet {
+    font-size: 1.875rem;
+  }
+}
+
+.tg-18 {
+  .row-4 td {
+    width: 9.5rem;
+    height: 2.875rem;
+  }
+
+  .row-4 .col-1 {
+    width: 20.4375rem;
+  }
+
+  .row-4,
+  .row-5 {
+    border-bottom: none !important;
+  }
+  .row-5 {
+    text-align: end;
+    span {
+      position: relative;
+      top: 5px;
+    }
+  }
+  .row-4 .col-last {
+    width: 12.75rem;
+  }
+}

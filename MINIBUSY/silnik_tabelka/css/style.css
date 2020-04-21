@@ -1,0 +1,77 @@
+.tg-14 {
+  color: #fff;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  margin: 0 auto;
+}
+
+.tg-14 th,
+.tg-14 td {
+  overflow: hidden;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.tg-14 .row-1 th:not(:first-child),
+.tg-14 tr:not(:last-child) {
+  border-bottom: 1px solid #fff;
+}
+
+.tg-14 tfoot {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.tg-14 tfoot .row-1 {
+  height: 1rem;
+}
+
+.tg-14 tfoot tr {
+  border-bottom: none !important;
+}
+
+.tg-14 tfoot tr td {
+  text-align: left;
+}
+
+.tg-14 tr *:not(:first-child) {
+  border-left: 1px solid #fff;
+}
+
+.tg-14 .col-1 {
+  text-align: left !important;
+  width: 11.875rem !important;
+  /* text-transform: uppercase; */
+  font-weight: 700;
+}
+
+.tg-14 .row-1 {
+  height: 3.125rem;
+}
+
+.tg-14 .row-2 {
+  height: 4.625rem;
+  font-weight: 700;
+}
+
+.tg-14 .row-2 .col-2,
+.tg-14 .row-2 .col-4 {
+  width: 21.25rem;
+}
+
+.tg-14 .row-2 .col-3,
+.tg-14 .row-2 .col-5 {
+  width: 14.0625rem;
+}
+
+.tg-14 .row-1 .col-2,
+.tg-14 .row-2 .col-2 {
+  border-left: none !important;
+}
+
+.tg-14 .row-rest td {
+  height: 3rem;
+  width: 6.875rem;
+}
+/*# sourceMappingURL=style.css.map */
