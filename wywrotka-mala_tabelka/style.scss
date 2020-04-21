@@ -1,0 +1,50 @@
+.tg-12 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 37.5rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  border-color: #fff;
+
+  tr td {
+    width: 12.5rem;
+  }
+
+  tr td:first-child,
+  tr th:first-child {
+    text-align: left;
+    padding-left: 0.5625rem;
+  }
+
+  tr td,
+  tr th {
+    border-right: 1px solid #fff;
+  }
+
+  tr {
+    height: 1.75rem;
+    &:not(:last-child) {
+      border-bottom: 1px solid #fff;
+    }
+  }
+
+  .row-1 {
+    height: 2.3125rem;
+  }
+
+  tfoot {
+    font-style: italic;
+    tr {
+      border-bottom: none !important;
+    }
+    tr:first-child {
+      height: 0.75rem;
+    }
+    tr td {
+      border-right: none;
+      text-align: right !important;
+    }
+  }
+}

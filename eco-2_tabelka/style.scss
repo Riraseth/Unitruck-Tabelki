@@ -1,0 +1,39 @@
+.tg-13 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 20.3125rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+
+  td {
+    width: 10.15rem;
+  }
+
+  tr:not(:last-child) td,
+  .row-1 .col-2 {
+    border-bottom: 2px solid #c4c6c9;
+  }
+
+  tr td:not(:first-child) {
+    border-left: 1px solid #c4c6c9;
+  }
+
+  .row-2 .col-2 {
+    border-left: none;
+  }
+
+  tr td:first-child {
+    font-weight: 700;
+    text-align: left;
+  }
+
+  .row-2 {
+    height: 4rem;
+  }
+
+  .row-1,
+  .row-rest {
+    height: 2.75rem;
+  }
+}
