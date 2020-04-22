@@ -1,0 +1,63 @@
+.tg-19 {
+  border-spacing: 0;
+  width: 56.25rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.tg-19 th:not(:first-child),
+.tg-19 td:not(:first-child) {
+  border-left: 1px solid #bdbec1;
+}
+
+.tg-19 .row-2 td,
+.tg-19 .row-3 td {
+  border-left: 1px solid #bdbec1;
+}
+
+.tg-19 tr:not(:last-child) td,
+.tg-19 tr:not(:last-child) th {
+  border-bottom: 1px solid #bdbec1;
+}
+
+.tg-19 .img {
+  max-height: 5.2rem;
+}
+
+.tg-19 .row-4 .col-2,
+.tg-19 .row-4 .col-4,
+.tg-19 .row-4 .col-5 {
+  border-bottom: none;
+}
+
+.tg-19 .col-1,
+.tg-19 .col-2 {
+  width: 8.75rem;
+}
+
+.tg-19 .circle-letter {
+  display: inline-block;
+  color: #005ba2;
+  border: 1px solid #005ba2;
+  border-radius: 100%;
+  height: 1.6875rem;
+  width: 1.6875rem;
+  line-height: 1.6875rem;
+}
+
+.tg-19 .row-1 .col-3 {
+  width: 28.125rem;
+}
+
+.tg-19 .row-2,
+.tg-19 .row-4,
+.tg-19 .row-5 {
+  height: 2.25rem;
+}
+
+.tg-19 .row-4 .col-4,
+.tg-19 .row-4 .col-5 {
+  width: 5.5rem;
+}
+/*# sourceMappingURL=style.css.map */
