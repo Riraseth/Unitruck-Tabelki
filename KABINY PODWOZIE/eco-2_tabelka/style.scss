@@ -36,4 +36,19 @@
   .row-rest {
     height: 2.75rem;
   }
+  tfoot {
+    tr td {
+      border-bottom: none !important;
+    }
+    tr td:first-child {
+      font-weight: 400;
+    }
+    .row-1,
+    .row-rest {
+      height: 1rem;
+    }
+    .row-rest {
+      font-style: italic;
+    }
+  }
 }
