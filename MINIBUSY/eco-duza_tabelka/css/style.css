@@ -1,7 +1,6 @@
 @charset "UTF-8";
 .tg-17,
 .tg-18 {
-  border-collapse: collapse;
   border-spacing: 0;
   width: 87.5rem;
   vertical-align: middle;
@@ -19,18 +18,14 @@
 .tg-17 .-has-dot,
 .tg-18 .-has-dot {
   color: #fff;
-  position: relative;
+  position: absolute;
+  transform: translate(-50%, -50%);
 }
 
 .tg-17 .-has-dot::after,
 .tg-18 .-has-dot::after {
   content: '\2022‬';
-  position: absolute;
   font-size: 1.875rem;
-  top: 0;
-  left: 0;
-  line-height: 1;
-  transform: translateX(-50%);
 }
 
 .tg-17 tr,
@@ -127,6 +122,11 @@
 
 .tg-18 .row-5 {
   text-align: end;
+  font-style: italic;
+}
+
+.tg-18 .row-5 td {
+  padding-right: 6rem;
 }
 
 .tg-18 .row-5 span {

@@ -16,15 +16,11 @@
 
   .-has-dot {
     color: #fff;
-    position: relative;
+    position: absolute;
+    transform: translate(-50%, -50%);
     &::after {
       content: '\2022‬';
-      position: absolute;
       font-size: 1.875rem;
-      top: 0;
-      left: 0;
-      line-height: 1;
-      transform: translateX(-50%);
     }
   }
 
