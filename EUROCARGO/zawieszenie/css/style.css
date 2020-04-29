@@ -1,0 +1,73 @@
+.tg-23 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  vertical-align: middle;
+  color: #fff;
+  border-color: #fff;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.tg-23 tbody tr td,
+.tg-23 tbody tr th {
+  border: 1px solid #fff;
+}
+
+.tg-23 .row-1 {
+  height: 3.4375rem;
+}
+
+.tg-23 .row-2 {
+  height: 4.3rem;
+}
+
+.tg-23 tfoot tr,
+.tg-23 .row-rest {
+  height: 3.05rem;
+}
+
+.tg-23 tfoot td {
+  text-align: end;
+}
+
+.tg-23 tfoot td .-has-square {
+  top: 0.2rem;
+  margin-right: 0.3rem;
+}
+
+.tg-23 .col-1 {
+  width: 21.5rem;
+  text-align: left;
+  padding-left: 0.5rem;
+}
+
+.tg-23 .row-2 td:nth-child(2),
+.tg-23 .row-2 td:nth-child(3),
+.tg-23 .row-2 td:nth-child(4),
+.tg-23 .row-rest td:nth-child(2),
+.tg-23 .row-rest td:nth-child(3),
+.tg-23 .row-rest td:nth-child(4) {
+  width: 10.4rem;
+}
+
+.tg-23 .row-2 td:nth-child(5),
+.tg-23 .row-2 td:nth-child(6),
+.tg-23 .row-rest td:nth-child(5),
+.tg-23 .row-rest td:nth-child(6) {
+  width: 13.5625rem;
+}
+
+.tg-23 .-has-square {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: 2px solid #fff;
+  display: inline-block;
+  position: relative;
+  top: 0.05rem;
+}
+
+.tg-23 .-is-full {
+  background-color: #fff;
+}
+/*# sourceMappingURL=style.css.map */

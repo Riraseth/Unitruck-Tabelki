@@ -1,9 +1,47 @@
 .tg-22 {
+  border-collapse: collapse;
   border-spacing: 0;
-  width: 87.5rem;
+  width: 80.1875rem;
   vertical-align: middle;
   color: #fff;
   border-color: #fff;
   margin: 0 auto;
   text-align: center;
+  tr td,
+  tr th {
+    border: 1px solid #fff;
+  }
+  tr {
+    .col-1 {
+      width: 17.5rem;
+    }
+    .col-2,
+    .col-3 {
+      width: 11.375rem;
+    }
+    .col-4,
+    .col-5 {
+      width: 20rem;
+    }
+  }
+  .row-1 {
+    height: 4.25rem;
+  }
+  .row-2,
+  .row-3,
+  .row-4 {
+    height: 4.38rem;
+  }
+  .row-5,
+  .row-6,
+  .row-7,
+  .row-8 {
+    height: 3.26rem;
+  }
+  img {
+    margin: 0 auto;
+    display: block;
+    max-width: 16.1875rem;
+    padding: 0.5rem;
+  }
 }

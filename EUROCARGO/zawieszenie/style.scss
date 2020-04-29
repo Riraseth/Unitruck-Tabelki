@@ -1,0 +1,64 @@
+.tg-23 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  vertical-align: middle;
+  color: #fff;
+  border-color: #fff;
+  margin: 0 auto;
+  text-align: center;
+  tbody {
+    tr td,
+    tr th {
+      border: 1px solid #fff;
+    }
+  }
+
+  .row-1 {
+    height: 3.4375rem;
+  }
+  .row-2 {
+    height: 4.3rem;
+  }
+  tfoot tr,
+  .row-rest {
+    height: 3.05rem;
+  }
+
+  tfoot td {
+    text-align: end;
+    .-has-square {
+      top: 0.2rem;
+      margin-right: 0.3rem;
+    }
+  }
+
+  .col-1 {
+    width: 21.5rem;
+    text-align: left;
+    padding-left: 0.5rem;
+  }
+  .row-2,
+  .row-rest {
+    td:nth-child(2),
+    td:nth-child(3),
+    td:nth-child(4) {
+      width: 10.4rem;
+    }
+    td:nth-child(5),
+    td:nth-child(6) {
+      width: 13.5625rem;
+    }
+  }
+  .-has-square {
+    width: 0.9rem;
+    height: 0.9rem;
+    border: 2px solid #fff;
+    display: inline-block;
+    position: relative;
+    top: 0.05rem;
+  }
+  .-is-full {
+    background-color: #fff;
+  }
+}
