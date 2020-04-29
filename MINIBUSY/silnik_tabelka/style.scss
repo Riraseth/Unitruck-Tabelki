@@ -2,7 +2,7 @@
   color: #fff;
   border-collapse: collapse;
   border-spacing: 0;
-  width: 80.1875rem;
+  width: 73.125rem;
   margin: 0 auto;
   th,
   td {
@@ -38,7 +38,7 @@
 
   .col-1 {
     text-align: left !important;
-    width: 11.875rem !important;
+    width: 12.5rem !important;
     /* text-transform: uppercase; */
     font-weight: 700;
   }
@@ -58,6 +58,12 @@
     .col-5 {
       width: 14.0625rem;
     }
+    .col-4 {
+      width: 15.063rem;
+    }
+    .col-5 {
+      width: 12.875rem;
+    }
   }
 
   .row-1 .col-2,
@@ -67,6 +73,6 @@
 
   .row-rest td {
     height: 3rem;
-    width: 6.875rem;
+    width: 7.7rem;
   }
 }

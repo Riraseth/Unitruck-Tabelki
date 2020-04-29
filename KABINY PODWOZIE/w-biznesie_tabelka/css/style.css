@@ -48,4 +48,9 @@
 .tg-5 .row-3 {
   height: 6.0625rem;
 }
+
+.tg-5 .row-2 .col-3,
+.tg-5 .row-3 .col-3 {
+  border-left: none;
+}
 /*# sourceMappingURL=style.css.map */

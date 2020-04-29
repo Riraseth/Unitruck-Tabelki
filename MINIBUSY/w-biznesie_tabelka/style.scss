@@ -46,5 +46,8 @@
   .row-2,
   .row-3 {
     height: 6.0625rem;
+    .col-3 {
+      border-left: none;
+    }
   }
 }
