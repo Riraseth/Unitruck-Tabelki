@@ -1,0 +1,52 @@
+.tg-26 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+
+  tr:not(:last-child) {
+    border-bottom: 1px solid #bbbdc0;
+  }
+  td,
+  th {
+    border-left: 1px solid #bbbdc0;
+  }
+
+  .circle-letter {
+    display: inline-block;
+    color: #005ba2;
+    border: 1px solid #005ba2;
+    border-radius: 100%;
+    height: 1.6875rem;
+    width: 1.6875rem;
+    line-height: 1.6875rem;
+    text-align: center;
+  }
+
+  img {
+    max-height: 5.625rem;
+  }
+
+  .row-1 {
+    height: 2.25rem;
+  }
+
+  .row-2 {
+    font-weight: 700;
+    height: 2.25rem;
+  }
+
+  .row-3 {
+    max-height: 5.625rem;
+    .col-4,
+    .col-5 {
+      font-weight: 700;
+    }
+  }
+
+  .row-rest {
+    height: 2.25rem;
+  }
+}
