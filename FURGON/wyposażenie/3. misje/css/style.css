@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.tg-10 {
+.tg-31 {
   border-collapse: separate !important;
   border-spacing: 0;
   width: 76.875rem;
@@ -9,11 +9,11 @@
   text-align: center;
 }
 
-.tg-10 tr td {
+.tg-31 tr td {
   position: relative;
 }
 
-.tg-10 .-has-dot {
+.tg-31 .-has-dot {
   color: #005ba2;
   position: absolute;
   top: 0;
@@ -21,7 +21,7 @@
   transform: translateX(-50%);
 }
 
-.tg-10 .-has-dot::after {
+.tg-31 .-has-dot::after {
   content: '\2022‬';
   position: absolute;
   font-size: 1.5625rem;
@@ -29,73 +29,73 @@
   left: 0;
 }
 
-.tg-10 tr td:first-child {
+.tg-31 tr td:first-child {
   text-align: left;
   width: 35.9375rem;
   padding-left: 0.5625rem;
 }
 
-.tg-10 tr td:not(:first-child) {
+.tg-31 tr td:not(:first-child) {
   width: 20.625rem;
   background-color: #ececed;
 }
 
-.tg-10 .row-empty {
+.tg-31 .row-empty {
   background-color: transparent !important;
   height: 0.9375rem;
 }
 
-.tg-10 .row-1,
-.tg-10 .row-2 {
+.tg-31 .row-1,
+.tg-31 .row-2 {
   text-transform: uppercase;
   font-weight: 700;
 }
 
-.tg-10 .row-1 {
+.tg-31 .row-1 {
   height: 2.625rem;
   font-size: 1.3rem;
 }
 
-.tg-10 .row-1 .col-1 {
+.tg-31 .row-1 .col-1 {
   color: #1370d0;
   text-align: left;
 }
 
-.tg-10 .row-1 .col-2,
-.tg-10 .row-1 .col-3 {
+.tg-31 .row-1 .col-2,
+.tg-31 .row-1 .col-3 {
   border-bottom: 4px solid #ececed;
 }
 
-.tg-10 .row-1 .col-3 {
+.tg-31 .row-1 .col-3 {
   border-left: 4px solid #fff;
 }
 
-.tg-10 .row-2 {
+.tg-31 .row-2 {
   height: 3.125rem;
 }
 
-.tg-10 .row-2 td:nth-child(3),
-.tg-10 .row-2 td:nth-child(2),
-.tg-10 .row-2 td:nth-child(4) {
+.tg-31 .row-2 td:nth-child(3),
+.tg-31 .row-2 td:nth-child(2),
+.tg-31 .row-2 td:nth-child(4) {
   border-right: 1px solid #fff;
 }
 
-.tg-10 tr:nth-child(n + 4) {
+.tg-31 tr:nth-child(n + 4) {
   height: 1.625rem;
   font-size: 0.9375rem;
 }
 
-.tg-10 tr:nth-child(n + 4) td:first-child {
+.tg-31 tr:nth-child(n + 4) td:first-child {
   border-top: 1px solid #bdbec1;
 }
 
-.tg-10 tr:nth-child(n + 4) td:not(:first-child) {
+.tg-31 tr:nth-child(n + 4) td:not(:first-child) {
   border-top: 1px solid #fff;
 }
 
-.tg-10 tr:nth-child(n + 4) td:nth-child(2),
-.tg-10 tr:nth-child(n + 4) td:nth-child(3),
-.tg-10 tr:nth-child(n + 4) td:nth-child(4) {
+.tg-31 tr:nth-child(n + 4) td:nth-child(2),
+.tg-31 tr:nth-child(n + 4) td:nth-child(3),
+.tg-31 tr:nth-child(n + 4) td:nth-child(4) {
   border-right: 1px solid #fff;
 }
 /*# sourceMappingURL=style.css.map */
