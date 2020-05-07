@@ -1,0 +1,57 @@
+.tg-25 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.tg-25 tr:not(:last-child) {
+  border-bottom: 1px solid #bbbdc0;
+}
+
+.tg-25 img {
+  max-height: 6rem;
+}
+
+.tg-25 .row-1 {
+  height: 2.8125rem;
+}
+
+.tg-25 .row-1 .col-1 {
+  vertical-align: bottom;
+  padding-bottom: 1.5rem;
+}
+
+.tg-25 .row-1 .col-2,
+.tg-25 .row-1 .col-3,
+.tg-25 .row-1 .col-4 {
+  border-left: 1px solid #bbbdc0;
+}
+
+.tg-25 .row-1 .col-1 {
+  text-align: left;
+}
+
+.tg-25 .row-2 {
+  height: 6rem;
+}
+
+.tg-25 .row-2 td {
+  border-left: 1px solid #bbbdc0;
+}
+
+.tg-25 .row-3 {
+  height: 2.25rem;
+}
+
+.tg-25 .row-3 td:not(:first-child) {
+  border-left: 1px solid #bbbbbb;
+}
+
+.tg-25 .row-2 td:not(:first-child),
+.tg-25 .row-3 td:not(:first-child) {
+  width: 21.875rem;
+}
+/*# sourceMappingURL=style.css.map */

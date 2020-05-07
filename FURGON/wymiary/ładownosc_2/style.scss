@@ -1,0 +1,52 @@
+.tg-25 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80.1875rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+
+  tr:not(:last-child) {
+    border-bottom: 1px solid #bbbdc0;
+  }
+
+  img {
+    max-height: 6rem;
+  }
+
+  .row-1 {
+    height: 2.8125rem;
+    .col-1 {
+      vertical-align: bottom;
+      padding-bottom: 1.5rem;
+    }
+    .col-2,
+    .col-3,
+    .col-4 {
+      border-left: 1px solid #bbbdc0;
+    }
+    .col-1 {
+      text-align: left;
+    }
+  }
+
+  .row-2 {
+    height: 6rem;
+    td {
+      border-left: 1px solid #bbbdc0;
+    }
+  }
+
+  .row-3 {
+    height: 2.25rem;
+    td:not(:first-child) {
+      border-left: 1px solid #bbbbbb;
+    }
+  }
+  .row-2,
+  .row-3 {
+    td:not(:first-child) {
+      width: 21.875rem;
+    }
+  }
+}
