@@ -1,4 +1,4 @@
-.tg-10 {
+.tg-39 {
   border-collapse: separate !important;
   border-spacing: 0;
   width: 76.875rem;
@@ -28,11 +28,11 @@
 
   tr td:first-child {
     text-align: left;
-    width: 33.375rem;
+    width: 35.9375rem;
     padding-left: 0.5625rem;
   }
   tr td:not(:first-child) {
-    width: 14.0625rem;
+    width: 10.1875rem;
     background-color: #ececed;
   }
   .row-empty {
@@ -56,7 +56,9 @@
   }
   .row-2 {
     height: 3.125rem;
-    td:nth-child(3),
+    td:nth-child(3) {
+      border-right: 1px solid #bdbec1;
+    }
     td:nth-child(2),
     td:nth-child(4) {
       border-right: 1px solid #fff;
@@ -72,9 +74,11 @@
       border-top: 1px solid #fff;
     }
     td:nth-child(2),
-    td:nth-child(3),
     td:nth-child(4) {
       border-right: 1px solid #fff;
+    }
+    td:nth-child(3) {
+      border-right: 1px solid #bdbec1;
     }
   }
 }
