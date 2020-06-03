@@ -1,0 +1,66 @@
+.tg-45 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 62.5rem;
+  margin: 0 auto;
+}
+
+.tg-45 th,
+.tg-45 td {
+  overflow: hidden;
+  vertical-align: middle;
+  text-align: center;
+  width: 9.0625rem;
+}
+
+.tg-45 tr *:not(:first-child),
+.tg-45 .row-3 .col-1 {
+  border-left: 2px solid #b1b2b6;
+}
+
+.tg-45 .row-1,
+.tg-45 .row-2 {
+  height: 2.3125rem;
+  font-weight: 700;
+}
+
+.tg-45 .row-2 .col-1 {
+  vertical-align: baseline;
+  padding-top: 1.1875rem;
+}
+
+.tg-45 .row-2 td:not(:first-child) {
+  text-transform: uppercase;
+}
+
+.tg-45 .row-3,
+.tg-45 .row-3 img {
+  height: 4.0625rem;
+}
+
+.tg-45 .row-4 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.tg-45 .row-4,
+.tg-45 .row-rest {
+  height: 2.3125rem;
+}
+
+.tg-45 .row-1 th:not(:first-child) {
+  border-bottom: 2px solid #b1b2b6;
+}
+
+.tg-45 .row-4 td,
+.tg-45 .row-rest td {
+  width: 8.875rem;
+}
+
+.tg-45 .row-2,
+.tg-45 .row-3,
+.tg-45 .row-4,
+.tg-45 .row-rest:not(:last-child) {
+  border-bottom: 2px solid #b1b2b6;
+}
+/*# sourceMappingURL=style.css.map */
