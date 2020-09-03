@@ -1,0 +1,57 @@
+.tg-63 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 20.3125rem;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.tg-63 td {
+  width: 10.15rem;
+}
+
+.tg-63 tr:not(:last-child) td,
+.tg-63 .row-1 .col-2 {
+  border-bottom: 2px solid #c4c6c9;
+}
+
+.tg-63 tr td:not(:first-child) {
+  border-left: 1px solid #c4c6c9;
+}
+
+.tg-63 .row-2 .col-2 {
+  border-left: none;
+}
+
+.tg-63 tr td:first-child {
+  font-weight: 700;
+  text-align: left;
+}
+
+.tg-63 .row-2 {
+  height: 4rem;
+}
+
+.tg-63 .row-1,
+.tg-63 .row-rest {
+  height: 2.75rem;
+}
+
+.tg-63 tfoot tr td {
+  border-bottom: none !important;
+}
+
+.tg-63 tfoot tr td:first-child {
+  font-weight: 400;
+}
+
+.tg-63 tfoot .row-1,
+.tg-63 tfoot .row-rest {
+  height: 1rem;
+}
+
+.tg-63 tfoot .row-rest {
+  font-style: italic;
+}
+/*# sourceMappingURL=style.css.map */
